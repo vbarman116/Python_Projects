@@ -1,0 +1,9 @@
+You can create your own template.
+
+for ex:
+
+Hello I am {{ name }}.
+
+this is the syntax for jinja2 and in this template you just have to pass the name value = something 
+and boom there you go.!!!!
+
